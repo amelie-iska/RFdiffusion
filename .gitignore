@@ -14,3 +14,11 @@ tests/reference_outputs/
 tests/target_folds
 tests/tim_barrel_scaffold
 tests/tests_*
+
+
+.ipynb_checkpoints/
+
+/example_outputs/
+/examples/input_pdbs/8qoj.pdb
+/inputs/
+/outputs
